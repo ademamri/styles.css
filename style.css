@@ -1,0 +1,21 @@
+.title{
+color:red;
+text-decoration:underline;
+text-align: center;
+}
+article > p{
+font-weight: bold;
+background-color: black ;
+color: white;
+padding: 5em;
+}
+body{
+background-color: deepskyblue;
+}
+.adem{
+color: blue;
+}
+.as{
+text-align: center;
+color: brown;
+}
